@@ -8,6 +8,7 @@
 
 ### Routes
 [List of articles](https://superbase-cache.jupavar.workers.dev/articles)
+
 [Article details](https://superbase-cache.jupavar.workers.dev/articles/14fa5ae4-c62a-44e7-9845-90e9d657a5af)
 ### Local routes
 
