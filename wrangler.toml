@@ -1,0 +1,7 @@
+name = "superbase-cache"
+main = "src/index.ts"
+compatibility_date = "2023-01-02"
+
+kv_namespaces = [
+  { binding = "supabase", id = "7ab3cc9a07984f48abcbb7d8b14364dd", preview_id = "e2e6ea0029a245e5af57a09eba9c4e92" }
+]
